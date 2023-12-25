@@ -1,4 +1,4 @@
-<div id="header" align="right">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2c1bGhtNDdkcTZjYmFhdGZkcDhkZGViMDB4amhxdGt0ZTV6aXl4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif"width="180"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/nothandon/">
