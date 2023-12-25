@@ -9,9 +9,8 @@
   </a>
   <h1>
   Hey there!
-  
   <div align="left">
-    <img src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" width="200" height="200"/>
+    <img src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" width="300" height="300"/>
 </div>
 
 ### :woman_technologist: About Me :
