@@ -53,6 +53,6 @@ I am a Physics educator turned DevOps Engineer <img src="https://media.giphy.com
 </div>
 
 
-  ## Check out my projects pinned below: 
+ :rocket: ## Check out my projects pinned below: 
 
 
