@@ -10,10 +10,9 @@
   <h1>
   Hey there!
   
-  <div align="center">
+  <div align="left">
     <img src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" width="200" height="200"/>
 </div>
----
 
 ### :woman_technologist: About Me :
 
