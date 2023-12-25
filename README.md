@@ -21,7 +21,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Physics educator turned DevOps Engineer <img src="https://media.giphy.com/media/xD7BoP1ZQi7FLsnmwk/giphy.gif" width="30">.
+I am a Physics educator turned DevOps Engineer <img src="https://media.giphy.com/media/xD7BoP1ZQi7FLsnmwk/giphy.gif" width="30">
 - :telescope: I’m working as a Technologists, building cloud infrastructure and writting automation scripts.
 
 - :seedling: Exploring Technical Content Writing.
