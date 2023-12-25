@@ -47,8 +47,8 @@ I am a Physics educator turned DevOps Engineer <img src="https://media.giphy.com
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
 </div>
 
- <div align="left">
-    <img src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" width="300" height="300"/>
+ <div align="center">
+    <img src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" width="250" height="250"/>
 </div>
 
-Check out my projects pinned below
+## Check out my projects pinned below
