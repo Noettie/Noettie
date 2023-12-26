@@ -49,10 +49,10 @@ I am a Physics educator turned DevOps Engineer <img src="https://media.giphy.com
 
 
  <div align="center">
-    <img src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" width="160" height="160"/>
+    <img src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" width="140" height="140"/>
 </div>
 
   
-### Check out my projects pinned below: :rocket:
+### _Check out my projects pinned below_: :rocket:
 
 
